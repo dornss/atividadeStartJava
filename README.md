@@ -13,6 +13,6 @@ c) a área do trapézio que tem bases A e B, e altura C
 8. Fazer um programa para ler uma duração de tempo em segundos, daí imprimir na tela esta duração no formato horas:minutos:segundos.
 
 ### Obs:
-Os arquivos .java dos exercicios encontram-se no diretório: src/atividadeStartJava.
+Os arquivos .java dos exercicios encontram-se no diretório: src/atividadeJavaStart.
 
 
