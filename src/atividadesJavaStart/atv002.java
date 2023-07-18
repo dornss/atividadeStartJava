@@ -16,7 +16,9 @@ public class atv002 {
 		
 		soma = x+y; 
 		
-		System.out.printf("Soma = %f", soma);		
+		System.out.printf("Soma = %f", soma);	
+		
+		sc.close();
 	}
 
 }

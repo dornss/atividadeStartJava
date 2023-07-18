@@ -16,6 +16,8 @@ public class atv004 {
 		
 		System.out.printf("Area = %.3f", area);
 		
+		sc.close();
+		
 	}
 
 }

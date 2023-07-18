@@ -24,7 +24,7 @@ public class atv005 {
 		
 		
 		
-		
+		sc.close();
 
 	}
 

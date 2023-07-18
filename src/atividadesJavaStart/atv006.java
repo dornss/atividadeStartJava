@@ -21,6 +21,7 @@ public class atv006 {
 		
 		System.out.printf("Consumo medio = %.3f", cons);
 		
+		sc.close();
 
 	}
 
