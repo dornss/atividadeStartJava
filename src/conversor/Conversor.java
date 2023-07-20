@@ -10,6 +10,8 @@ public class Conversor {
 			
 			Cotacao cotacao = new Cotacao();
 			
+			System.out.println(cotacao);
+			
 			System.out.println("Digite a cotação atual: ");	
 			cotacao.cotacaoAtual = sc.nextDouble();
 			

@@ -9,4 +9,4 @@ public class Cotacao {
 		//double dolaresFinal = dolaresReajustados * cotacaoAtual;
 		return dolaresReajustados;
 	} 
-}
+}	
